@@ -1,7 +1,7 @@
 # SecondHope
 SecondHope - A connection line for Surrogate, Doctor and Intended Parents
 
-Team Member: Janki Rathod(0864129), Krima Patel(0859652), Mohana Reddy(0688824)
+Team Member: Janki Rathod(0864129), Krima Patel(0859652), Mohana Santhosh Reddy(0688824)
 
 Second Hope, we have three modules –
 
