@@ -1,0 +1,26 @@
+-------------------------------------------------------------
+03/26/2018 17:54:21.360
+-------------------------------------------------------------
+[Message]      : Input string was not in a correct format.
+[StackTrace]   :    at System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   at System.Int16.Parse(String s, NumberStyles style, NumberFormatInfo info)
+   at System.Convert.ToInt16(String value)
+   at Surrogacy.Service.InfoSurrogateService.ViewInfoSurrogate(InfoSurrogate infosurrogate, Int32 SurrogateID) in E:\CurrentProject\Surrogacy\Surrogacy\Service\InfoSurrogateService.cs:line 34
+[Source]       : mscorlib
+[TargetSite]   : Void StringToNumber(System.String, System.Globalization.NumberStyles, NumberBuffer ByRef, System.Globalization.NumberFormatInfo, Boolean)
+
+
+-------------------------------------------------------------
+03/26/2018 17:54:29.558
+-------------------------------------------------------------
+[Message]      : Input string was not in a correct format.
+[StackTrace]   :    at System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   at System.Int16.Parse(String s, NumberStyles style, NumberFormatInfo info)
+   at System.Convert.ToInt16(String value)
+   at Surrogacy.Service.InfoSurrogateService.SaveInfoSurrogate(InfoSurrogate infosurrogate) in E:\CurrentProject\Surrogacy\Surrogacy\Service\InfoSurrogateService.cs:line 118
+[Source]       : mscorlib
+[TargetSite]   : Void StringToNumber(System.String, System.Globalization.NumberStyles, NumberBuffer ByRef, System.Globalization.NumberFormatInfo, Boolean)
+
+

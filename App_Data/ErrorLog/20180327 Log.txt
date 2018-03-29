@@ -1,0 +1,55 @@
+-------------------------------------------------------------
+03/27/2018 09:47:37.992
+-------------------------------------------------------------
+[Message]      : Column 'DESCRIPTION' does not belong to table InfoSurrogate.
+[StackTrace]   :    at System.Data.DataRow.GetDataColumn(String columnName)
+   at System.Data.DataRow.get_Item(String columnName)
+   at Surrogacy.Service.InfoSurrogateService.ViewInfoSurrogate(InfoSurrogate infosurrogate, Int32 SurrogateID) in E:\CurrentProject\Surrogacy\Surrogacy\Service\InfoSurrogateService.cs:line 83
+[Source]       : System.Data
+[TargetSite]   : System.Data.DataColumn GetDataColumn(System.String)
+
+
+-------------------------------------------------------------
+03/27/2018 09:48:13.100
+-------------------------------------------------------------
+[Message]      : Column 'DESCRIPTION' does not belong to table InfoSurrogate.
+[StackTrace]   :    at System.Data.DataRow.GetDataColumn(String columnName)
+   at System.Data.DataRow.get_Item(String columnName)
+   at Surrogacy.Service.InfoSurrogateService.ViewInfoSurrogate(InfoSurrogate infosurrogate, Int32 SurrogateID) in E:\CurrentProject\Surrogacy\Surrogacy\Service\InfoSurrogateService.cs:line 83
+[Source]       : System.Data
+[TargetSite]   : System.Data.DataColumn GetDataColumn(System.String)
+
+
+-------------------------------------------------------------
+03/27/2018 09:50:05.787
+-------------------------------------------------------------
+[Message]      : Column 'DESCRIPTION' does not belong to table InfoSurrogate.
+[StackTrace]   :    at System.Data.DataRow.GetDataColumn(String columnName)
+   at System.Data.DataRow.get_Item(String columnName)
+   at Surrogacy.Service.InfoSurrogateService.ViewInfoSurrogate(InfoSurrogate infosurrogate, Int32 SurrogateID) in E:\CurrentProject\Surrogacy\Surrogacy\Service\InfoSurrogateService.cs:line 83
+[Source]       : System.Data
+[TargetSite]   : System.Data.DataColumn GetDataColumn(System.String)
+
+
+-------------------------------------------------------------
+03/27/2018 09:53:01.353
+-------------------------------------------------------------
+[Message]      : Column 'DESCRIPTION' does not belong to table InfoSurrogate.
+[StackTrace]   :    at System.Data.DataRow.GetDataColumn(String columnName)
+   at System.Data.DataRow.get_Item(String columnName)
+   at Surrogacy.Service.InfoSurrogateService.ViewInfoSurrogate(InfoSurrogate infosurrogate, Int32 SurrogateID) in E:\CurrentProject\Surrogacy\Surrogacy\Service\InfoSurrogateService.cs:line 83
+[Source]       : System.Data
+[TargetSite]   : System.Data.DataColumn GetDataColumn(System.String)
+
+
+-------------------------------------------------------------
+03/27/2018 09:53:16.276
+-------------------------------------------------------------
+[Message]      : Column 'DESCRIPTION' does not belong to table InfoSurrogate.
+[StackTrace]   :    at System.Data.DataRow.GetDataColumn(String columnName)
+   at System.Data.DataRow.get_Item(String columnName)
+   at Surrogacy.Service.InfoSurrogateService.ViewInfoSurrogate(InfoSurrogate infosurrogate, Int32 SurrogateID) in E:\CurrentProject\Surrogacy\Surrogacy\Service\InfoSurrogateService.cs:line 83
+[Source]       : System.Data
+[TargetSite]   : System.Data.DataColumn GetDataColumn(System.String)
+
+
