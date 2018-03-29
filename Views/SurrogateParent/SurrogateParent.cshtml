@@ -1,0 +1,151 @@
+﻿@model Surrogacy.Models.SurrogateParent
+@using Surrogacy.Helper
+@using Surrogacy.Util
+@{
+    ViewBag.Title = "SurrogateParent";
+    Layout = "~/Views/Shared/_MasterLayout.cshtml";
+}
+<section>
+    <br/>
+    @if (ApplicationManager.LoggedInUser.UserRoleName == "Surrogate")
+    {
+        <div class="col-md-12">
+            <div class="box box-solid box-primary">
+                <div class="box-header">
+                    <h3 class="box-title">Parent info</h3>
+                    <div class="box-tools pull-right">
+                        <button type="button" class="btn btn-info text-bold" data-widget="collapse">
+                            <i class="fa fa-minus text"></i>
+                        </button>
+                    </div>
+                </div>
+                <div class="box-body">
+                    <div class="box-body table-responsive no-padding">
+                        <table class="table table-hover">
+                            @if (Model.ParentID == 0)
+                            {
+                                <tr>
+                                    You are not registered for any Parent at a moment.
+                                </tr>
+                            }
+                            else
+                            {
+                                <tr></tr>
+                                <tr>
+                                    <td style="font-weight:700">Fist Name</td>
+                                    <td>@Model.ParentFirstName</td>
+                                </tr>
+                                <tr>
+                                    <td style="font-weight:700">Last Name</td>
+                                    <td>@Model.ParentLastName</td>
+                                </tr>
+                                <tr>
+                                    <td style="font-weight:700">Email ID</td>
+                                    <td>@Model.ParentEmailID</td>
+                                </tr>
+                            }
+
+                        </table>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="col-md-12">
+            <div class="box box-solid box-primary">
+                <div class="box-header">
+                    <h3 class="box-title">Doctor info</h3>
+                    <div class="box-tools pull-right">
+                        <button type="button" class="btn btn-info text-bold" data-widget="collapse">
+                            <i class="fa fa-minus text"></i>
+                        </button>
+                    </div>
+                </div>
+                <div class="box-body">
+                    <div class="box-body table-responsive no-padding">
+                        <table class="table table-hover">
+                            <tr></tr>
+                            <tr>
+                                <td style="font-weight:700">Name</td>
+                                <td>@Model.DoctorName</td>
+                            </tr>
+                            <tr>
+                                <td style="font-weight:700">Email</td>
+                                <td>@Model.DoctorEmailID</td>
+                            </tr>
+                        </table>
+                    </div>
+                </div>
+            </div>
+        </div>
+    }
+    @if (ApplicationManager.LoggedInUser.UserRoleName == "Parents")
+    {
+        <div class="col-md-12">
+            <div class="box box-solid box-primary">
+                <div class="box-header">
+                    <h3 class="box-title">Surrogate info</h3>
+                    <div class="box-tools pull-right">
+                        <button type="button" class="btn btn-info text-bold" data-widget="collapse">
+                            <i class="fa fa-minus text"></i>
+                        </button>
+                    </div>
+                </div>
+                <div class="box-body">
+                    <div class="box-body table-responsive no-padding">
+                        <table class="table table-hover">
+                            @if (Model.SurrogateID == 0)
+                            {
+                                <tr>
+                                    You have not selected any Surrogate at a moment.
+                                </tr>
+                            }
+                            else
+                            {
+                                <tr></tr>
+                                <tr>
+                                    <td style="font-weight:700">Fist Name</td>
+                                    <td>@Model.SurroagateFirstName</td>
+                                </tr>
+                                <tr>
+                                    <td style="font-weight:700">Last Name</td>
+                                    <td>@Model.SurrogateLastName</td>
+                                </tr>
+                                <tr>
+                                    <td style="font-weight:700">Email ID</td>
+                                    <td>@Model.SurrogateEmailID</td>
+                                </tr>
+                            }
+                        </table>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="col-md-12">
+            <div class="box box-solid box-primary">
+                <div class="box-header">
+                    <h3 class="box-title">Doctor info</h3>
+                    <div class="box-tools pull-right">
+                        <button type="button" class="btn btn-info text-bold" data-widget="collapse">
+                            <i class="fa fa-minus text"></i>
+                        </button>
+                    </div>
+                </div>
+                <div class="box-body">
+                    <div class="box-body table-responsive no-padding">
+                        <table class="table table-hover">
+                            <tr></tr>
+                            <tr>
+                                <td style="font-weight:700">Name</td>
+                                <td>@Model.DoctorName</td>
+                            </tr>
+                            <tr>
+                                <td style="font-weight:700">Email</td>
+                                <td>@Model.DoctorEmailID</td>
+                            </tr>
+                        </table>
+                    </div>
+                </div>
+            </div>
+        </div>
+    }
+</section>

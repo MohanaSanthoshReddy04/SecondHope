@@ -1,0 +1,60 @@
+﻿@model  IEnumerable<Surrogacy.Models.SurrogateParent>
+@using Surrogacy.Helper
+@using Surrogacy.Util
+@{
+    ViewBag.Title = "SurrogateParent";
+    Layout = "~/Views/Shared/_MasterLayout.cshtml";
+}
+<section>
+    <br />
+    <div class="col-md-12">
+        <div class="box box-solid box-primary">
+            <div class="box-header">
+                <h3 class="box-title">Surrogate-Parent info</h3>
+                <div class="box-tools pull-right">
+                    <button type="button" class="btn btn-info text-bold" data-widget="collapse">
+                        <i class="fa fa-minus text"></i>
+                    </button>
+                </div>
+            </div>
+            <div class="box-body">
+                <div class="box-body table-responsive no-padding">
+                    <table class="table table-hover">
+                            <tr>
+                                <td>Surrogate First Name</td>
+                                <td>Surrogate Last Name</td>
+                                <td>Surrogate EmailID</td>
+                                <td>Parent First Name</td>
+                                <td>Parent Last Name</td>
+                                <td>Parent EmailID</td>
+                                <td>Is Choosen?</td>
+                            </tr>
+                        @foreach(var data in Model)
+                        { 
+                                <tr>
+                                    <td>@data.SurroagateFirstName</td>
+                                    <td>@data.SurrogateLastName</td>
+                                    <td>@data.SurrogateEmailID</td>
+                                    <td>@data.ParentFirstName</td>
+                                    <td>@data.ParentLastName</td>
+                                    <td>@data.ParentEmailID</td>
+                                
+                            @if (data.ParentID == 0)
+                            {
+                                <td>No</td>
+                            }
+                            else
+                            {
+                                <td>Yes</td>
+                            }
+
+                        </tr>
+                        }
+
+                     </table>
+                </div>
+            </div>
+        </div>
+    </div>
+
+</section>
