@@ -1,0 +1,162 @@
+c:\users\planet\documents\visual studio 2015\Projects\Surrogacy\Surrogacy\bin\ApplicationInsights.config
+c:\users\planet\documents\visual studio 2015\Projects\Surrogacy\Surrogacy\bin\roslyn\csc.exe
+c:\users\planet\documents\visual studio 2015\Projects\Surrogacy\Surrogacy\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\planet\documents\visual studio 2015\Projects\Surrogacy\Surrogacy\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\planet\documents\visual studio 2015\Projects\Surrogacy\Surrogacy\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\planet\documents\visual studio 2015\Projects\Surrogacy\Surrogacy\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\planet\documents\visual studio 2015\Projects\Surrogacy\Surrogacy\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\planet\documents\visual studio 2015\Projects\Surrogacy\Surrogacy\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\planet\documents\visual studio 2015\Projects\Surrogacy\Surrogacy\bin\roslyn\System.Collections.Immutable.dll
+c:\users\planet\documents\visual studio 2015\Projects\Surrogacy\Surrogacy\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\planet\documents\visual studio 2015\Projects\Surrogacy\Surrogacy\bin\roslyn\vbc.exe
+c:\users\planet\documents\visual studio 2015\Projects\Surrogacy\Surrogacy\bin\roslyn\VBCSCompiler.exe
+c:\users\planet\documents\visual studio 2015\Projects\Surrogacy\Surrogacy\bin\roslyn\VBCSCompiler.exe.config
+c:\users\planet\documents\visual studio 2015\Projects\Surrogacy\Surrogacy\bin\Surrogacy.dll.config
+c:\users\planet\documents\visual studio 2015\Projects\Surrogacy\Surrogacy\bin\Surrogacy.dll
+c:\users\planet\documents\visual studio 2015\Projects\Surrogacy\Surrogacy\bin\Surrogacy.pdb
+c:\users\planet\documents\visual studio 2015\Projects\Surrogacy\Surrogacy\bin\Antlr3.Runtime.dll
+c:\users\planet\documents\visual studio 2015\Projects\Surrogacy\Surrogacy\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\planet\documents\visual studio 2015\Projects\Surrogacy\Surrogacy\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\planet\documents\visual studio 2015\Projects\Surrogacy\Surrogacy\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\planet\documents\visual studio 2015\Projects\Surrogacy\Surrogacy\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\planet\documents\visual studio 2015\Projects\Surrogacy\Surrogacy\bin\Microsoft.AI.Web.dll
+c:\users\planet\documents\visual studio 2015\Projects\Surrogacy\Surrogacy\bin\Microsoft.AI.WindowsServer.dll
+c:\users\planet\documents\visual studio 2015\Projects\Surrogacy\Surrogacy\bin\Microsoft.ApplicationInsights.dll
+c:\users\planet\documents\visual studio 2015\Projects\Surrogacy\Surrogacy\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\planet\documents\visual studio 2015\Projects\Surrogacy\Surrogacy\bin\Microsoft.Web.Infrastructure.dll
+c:\users\planet\documents\visual studio 2015\Projects\Surrogacy\Surrogacy\bin\Newtonsoft.Json.dll
+c:\users\planet\documents\visual studio 2015\Projects\Surrogacy\Surrogacy\bin\System.Web.Helpers.dll
+c:\users\planet\documents\visual studio 2015\Projects\Surrogacy\Surrogacy\bin\System.Web.Mvc.dll
+c:\users\planet\documents\visual studio 2015\Projects\Surrogacy\Surrogacy\bin\System.Web.Optimization.dll
+c:\users\planet\documents\visual studio 2015\Projects\Surrogacy\Surrogacy\bin\System.Web.Razor.dll
+c:\users\planet\documents\visual studio 2015\Projects\Surrogacy\Surrogacy\bin\System.Web.Webpages.Deployment.dll
+c:\users\planet\documents\visual studio 2015\Projects\Surrogacy\Surrogacy\bin\System.Web.Webpages.dll
+c:\users\planet\documents\visual studio 2015\Projects\Surrogacy\Surrogacy\bin\System.Web.Webpages.Razor.dll
+c:\users\planet\documents\visual studio 2015\Projects\Surrogacy\Surrogacy\bin\WebGrease.dll
+c:\users\planet\documents\visual studio 2015\Projects\Surrogacy\Surrogacy\bin\Antlr3.Runtime.pdb
+c:\users\planet\documents\visual studio 2015\Projects\Surrogacy\Surrogacy\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\planet\documents\visual studio 2015\Projects\Surrogacy\Surrogacy\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\planet\documents\visual studio 2015\Projects\Surrogacy\Surrogacy\bin\Microsoft.AI.Web.xml
+c:\users\planet\documents\visual studio 2015\Projects\Surrogacy\Surrogacy\bin\Microsoft.AI.WindowsServer.xml
+c:\users\planet\documents\visual studio 2015\Projects\Surrogacy\Surrogacy\bin\Microsoft.ApplicationInsights.xml
+c:\users\planet\documents\visual studio 2015\Projects\Surrogacy\Surrogacy\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\planet\documents\visual studio 2015\Projects\Surrogacy\Surrogacy\bin\Newtonsoft.Json.xml
+c:\users\planet\documents\visual studio 2015\Projects\Surrogacy\Surrogacy\bin\System.Web.Optimization.xml
+c:\users\planet\documents\visual studio 2015\Projects\Surrogacy\Surrogacy\bin\System.Web.Razor.xml
+c:\users\planet\documents\visual studio 2015\Projects\Surrogacy\Surrogacy\bin\System.Web.Webpages.xml
+c:\users\planet\documents\visual studio 2015\Projects\Surrogacy\Surrogacy\bin\System.Web.Webpages.Deployment.xml
+c:\users\planet\documents\visual studio 2015\Projects\Surrogacy\Surrogacy\bin\System.Web.Webpages.Razor.xml
+c:\users\planet\documents\visual studio 2015\Projects\Surrogacy\Surrogacy\bin\System.Web.Helpers.xml
+c:\users\planet\documents\visual studio 2015\Projects\Surrogacy\Surrogacy\bin\System.Web.Mvc.xml
+c:\users\planet\documents\visual studio 2015\Projects\Surrogacy\Surrogacy\obj\Debug\Surrogacy.csprojResolveAssemblyReference.cache
+c:\users\planet\documents\visual studio 2015\Projects\Surrogacy\Surrogacy\obj\Debug\Surrogacy.dll
+c:\users\planet\documents\visual studio 2015\Projects\Surrogacy\Surrogacy\obj\Debug\Surrogacy.pdb
+F:\Projects\dotNet\Surrogacy\Surrogacy\bin\ApplicationInsights.config
+F:\Projects\dotNet\Surrogacy\Surrogacy\bin\roslyn\csc.exe
+F:\Projects\dotNet\Surrogacy\Surrogacy\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\Projects\dotNet\Surrogacy\Surrogacy\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\Projects\dotNet\Surrogacy\Surrogacy\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\Projects\dotNet\Surrogacy\Surrogacy\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\Projects\dotNet\Surrogacy\Surrogacy\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\Projects\dotNet\Surrogacy\Surrogacy\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\Projects\dotNet\Surrogacy\Surrogacy\bin\roslyn\System.Collections.Immutable.dll
+F:\Projects\dotNet\Surrogacy\Surrogacy\bin\roslyn\System.Reflection.Metadata.dll
+F:\Projects\dotNet\Surrogacy\Surrogacy\bin\roslyn\vbc.exe
+F:\Projects\dotNet\Surrogacy\Surrogacy\bin\roslyn\VBCSCompiler.exe
+F:\Projects\dotNet\Surrogacy\Surrogacy\bin\roslyn\VBCSCompiler.exe.config
+F:\Projects\dotNet\Surrogacy\Surrogacy\bin\Surrogacy.dll.config
+F:\Projects\dotNet\Surrogacy\Surrogacy\bin\Surrogacy.dll
+F:\Projects\dotNet\Surrogacy\Surrogacy\bin\Surrogacy.pdb
+F:\Projects\dotNet\Surrogacy\Surrogacy\bin\Antlr3.Runtime.dll
+F:\Projects\dotNet\Surrogacy\Surrogacy\bin\Microsoft.AI.Agent.Intercept.dll
+F:\Projects\dotNet\Surrogacy\Surrogacy\bin\Microsoft.AI.DependencyCollector.dll
+F:\Projects\dotNet\Surrogacy\Surrogacy\bin\Microsoft.AI.PerfCounterCollector.dll
+F:\Projects\dotNet\Surrogacy\Surrogacy\bin\Microsoft.AI.ServerTelemetryChannel.dll
+F:\Projects\dotNet\Surrogacy\Surrogacy\bin\Microsoft.AI.Web.dll
+F:\Projects\dotNet\Surrogacy\Surrogacy\bin\Microsoft.AI.WindowsServer.dll
+F:\Projects\dotNet\Surrogacy\Surrogacy\bin\Microsoft.ApplicationInsights.dll
+F:\Projects\dotNet\Surrogacy\Surrogacy\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\Projects\dotNet\Surrogacy\Surrogacy\bin\Microsoft.VisualStudio.DebuggerVisualizers.dll
+F:\Projects\dotNet\Surrogacy\Surrogacy\bin\Microsoft.Web.Infrastructure.dll
+F:\Projects\dotNet\Surrogacy\Surrogacy\bin\Newtonsoft.Json.dll
+F:\Projects\dotNet\Surrogacy\Surrogacy\bin\System.Web.Helpers.dll
+F:\Projects\dotNet\Surrogacy\Surrogacy\bin\System.Web.Mvc.dll
+F:\Projects\dotNet\Surrogacy\Surrogacy\bin\System.Web.Optimization.dll
+F:\Projects\dotNet\Surrogacy\Surrogacy\bin\System.Web.Razor.dll
+F:\Projects\dotNet\Surrogacy\Surrogacy\bin\System.Web.Webpages.Deployment.dll
+F:\Projects\dotNet\Surrogacy\Surrogacy\bin\System.Web.Webpages.dll
+F:\Projects\dotNet\Surrogacy\Surrogacy\bin\System.Web.Webpages.Razor.dll
+F:\Projects\dotNet\Surrogacy\Surrogacy\bin\WebGrease.dll
+F:\Projects\dotNet\Surrogacy\Surrogacy\bin\Antlr3.Runtime.pdb
+F:\Projects\dotNet\Surrogacy\Surrogacy\bin\Microsoft.AI.DependencyCollector.xml
+F:\Projects\dotNet\Surrogacy\Surrogacy\bin\Microsoft.AI.ServerTelemetryChannel.xml
+F:\Projects\dotNet\Surrogacy\Surrogacy\bin\Microsoft.AI.Web.xml
+F:\Projects\dotNet\Surrogacy\Surrogacy\bin\Microsoft.AI.WindowsServer.xml
+F:\Projects\dotNet\Surrogacy\Surrogacy\bin\Microsoft.ApplicationInsights.xml
+F:\Projects\dotNet\Surrogacy\Surrogacy\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\Projects\dotNet\Surrogacy\Surrogacy\bin\Microsoft.VisualStudio.DebuggerVisualizers.xml
+F:\Projects\dotNet\Surrogacy\Surrogacy\bin\Newtonsoft.Json.xml
+F:\Projects\dotNet\Surrogacy\Surrogacy\bin\System.Web.Optimization.xml
+F:\Projects\dotNet\Surrogacy\Surrogacy\bin\System.Web.Razor.xml
+F:\Projects\dotNet\Surrogacy\Surrogacy\bin\System.Web.Webpages.xml
+F:\Projects\dotNet\Surrogacy\Surrogacy\bin\System.Web.Webpages.Deployment.xml
+F:\Projects\dotNet\Surrogacy\Surrogacy\bin\System.Web.Webpages.Razor.xml
+F:\Projects\dotNet\Surrogacy\Surrogacy\bin\System.Web.Helpers.xml
+F:\Projects\dotNet\Surrogacy\Surrogacy\bin\System.Web.Mvc.xml
+F:\Projects\dotNet\Surrogacy\Surrogacy\obj\Debug\Surrogacy.dll
+F:\Projects\dotNet\Surrogacy\Surrogacy\obj\Debug\Surrogacy.pdb
+E:\CurrentProject\Surrogacy\Surrogacy\bin\ApplicationInsights.config
+E:\CurrentProject\Surrogacy\Surrogacy\bin\roslyn\csc.exe
+E:\CurrentProject\Surrogacy\Surrogacy\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\CurrentProject\Surrogacy\Surrogacy\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\CurrentProject\Surrogacy\Surrogacy\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\CurrentProject\Surrogacy\Surrogacy\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\CurrentProject\Surrogacy\Surrogacy\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\CurrentProject\Surrogacy\Surrogacy\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\CurrentProject\Surrogacy\Surrogacy\bin\roslyn\System.Collections.Immutable.dll
+E:\CurrentProject\Surrogacy\Surrogacy\bin\roslyn\System.Reflection.Metadata.dll
+E:\CurrentProject\Surrogacy\Surrogacy\bin\roslyn\vbc.exe
+E:\CurrentProject\Surrogacy\Surrogacy\bin\roslyn\VBCSCompiler.exe
+E:\CurrentProject\Surrogacy\Surrogacy\bin\roslyn\VBCSCompiler.exe.config
+E:\CurrentProject\Surrogacy\Surrogacy\bin\Surrogacy.dll.config
+E:\CurrentProject\Surrogacy\Surrogacy\bin\Surrogacy.dll
+E:\CurrentProject\Surrogacy\Surrogacy\bin\Surrogacy.pdb
+E:\CurrentProject\Surrogacy\Surrogacy\bin\Antlr3.Runtime.dll
+E:\CurrentProject\Surrogacy\Surrogacy\bin\Microsoft.AI.Agent.Intercept.dll
+E:\CurrentProject\Surrogacy\Surrogacy\bin\Microsoft.AI.DependencyCollector.dll
+E:\CurrentProject\Surrogacy\Surrogacy\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\CurrentProject\Surrogacy\Surrogacy\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\CurrentProject\Surrogacy\Surrogacy\bin\Microsoft.AI.Web.dll
+E:\CurrentProject\Surrogacy\Surrogacy\bin\Microsoft.AI.WindowsServer.dll
+E:\CurrentProject\Surrogacy\Surrogacy\bin\Microsoft.ApplicationInsights.dll
+E:\CurrentProject\Surrogacy\Surrogacy\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\CurrentProject\Surrogacy\Surrogacy\bin\Microsoft.VisualStudio.DebuggerVisualizers.dll
+E:\CurrentProject\Surrogacy\Surrogacy\bin\Microsoft.Web.Infrastructure.dll
+E:\CurrentProject\Surrogacy\Surrogacy\bin\Newtonsoft.Json.dll
+E:\CurrentProject\Surrogacy\Surrogacy\bin\System.Web.Helpers.dll
+E:\CurrentProject\Surrogacy\Surrogacy\bin\System.Web.Mvc.dll
+E:\CurrentProject\Surrogacy\Surrogacy\bin\System.Web.Optimization.dll
+E:\CurrentProject\Surrogacy\Surrogacy\bin\System.Web.Razor.dll
+E:\CurrentProject\Surrogacy\Surrogacy\bin\System.Web.Webpages.Deployment.dll
+E:\CurrentProject\Surrogacy\Surrogacy\bin\System.Web.Webpages.dll
+E:\CurrentProject\Surrogacy\Surrogacy\bin\System.Web.Webpages.Razor.dll
+E:\CurrentProject\Surrogacy\Surrogacy\bin\WebGrease.dll
+E:\CurrentProject\Surrogacy\Surrogacy\bin\Antlr3.Runtime.pdb
+E:\CurrentProject\Surrogacy\Surrogacy\bin\Microsoft.AI.DependencyCollector.xml
+E:\CurrentProject\Surrogacy\Surrogacy\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\CurrentProject\Surrogacy\Surrogacy\bin\Microsoft.AI.Web.xml
+E:\CurrentProject\Surrogacy\Surrogacy\bin\Microsoft.AI.WindowsServer.xml
+E:\CurrentProject\Surrogacy\Surrogacy\bin\Microsoft.ApplicationInsights.xml
+E:\CurrentProject\Surrogacy\Surrogacy\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\CurrentProject\Surrogacy\Surrogacy\bin\Microsoft.VisualStudio.DebuggerVisualizers.xml
+E:\CurrentProject\Surrogacy\Surrogacy\bin\Newtonsoft.Json.xml
+E:\CurrentProject\Surrogacy\Surrogacy\bin\System.Web.Optimization.xml
+E:\CurrentProject\Surrogacy\Surrogacy\bin\System.Web.Razor.xml
+E:\CurrentProject\Surrogacy\Surrogacy\bin\System.Web.Webpages.xml
+E:\CurrentProject\Surrogacy\Surrogacy\bin\System.Web.Webpages.Deployment.xml
+E:\CurrentProject\Surrogacy\Surrogacy\bin\System.Web.Webpages.Razor.xml
+E:\CurrentProject\Surrogacy\Surrogacy\bin\System.Web.Helpers.xml
+E:\CurrentProject\Surrogacy\Surrogacy\bin\System.Web.Mvc.xml
+E:\CurrentProject\Surrogacy\Surrogacy\obj\Debug\Surrogacy.dll
+E:\CurrentProject\Surrogacy\Surrogacy\obj\Debug\Surrogacy.pdb
+E:\CurrentProject\Surrogacy\Surrogacy\obj\Debug\Surrogacy.csprojResolveAssemblyReference.cache
