@@ -1,0 +1,213 @@
+﻿@model Surrogacy.Models.User
+@using Surrogacy.Util
+
+@{
+    Layout = null;
+
+    if (TempData["ShowMessage"] == null) { TempData["ShowMessage"] = "No"; }
+}
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no" name="viewport">
+    <link rel="shortcut icon" href="@ApplicationManager.ApplicationFaviconPath" type="image/x-icon">
+    <title>@ViewBag.Title</title>
+    @Styles.Render("~/Css")
+    @Styles.Render("https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css")
+    @Styles.Render("https://cdnjs.cloudflare.com/ajax/libs/ionicons/2.0.1/css/ionicons.min.css")
+</head>
+<body class="hold-transition skin-blue layout-top-nav">
+    <div class="wrapper">
+
+        <header class="main-header">
+            <nav class="navbar navbar-static-top">
+                <div class="container">
+                    <div class="navbar-header">
+                        <a href="@ApplicationManager.ApplicationWebLink" class="navbar-brand">
+                            <span class="logo-lg">
+                                <b>@ApplicationManager.ApplicationNameFP</b>@ApplicationManager.ApplicationNameLP
+                            </span>
+                        </a>
+                    </div>
+                    <div class="collapse navbar-collapse pull-left" id="navbar-collapse">
+                        <ul class="nav navbar-nav">
+                            <li class="active"><a href="../Home/Index">Home<span class="sr-only">(current)</span></a></li>
+                            <li><a href="../Account/Login">Log In</a></li>
+                        </ul>
+                    </div>
+                </div>
+            </nav>
+        </header>
+        <div class="row" style="background-color:whitesmoke;">
+            <div class="col-md-14">
+                <div class="box box-solid">
+                    @*<div class="box-header with-border">
+                            <h3 class="box-title"></h3>
+                        </div>*@
+                    <!-- /.box-header -->
+                    <div class="box-body">
+                        <div id="carousel-example-generic" class="carousel slide" data-ride="carousel">
+                            <ol class="carousel-indicators">
+                                <li data-target="#carousel-example-generic" data-slide-to="0" class="active"></li>
+                                @*<li data-target="#carousel-example-generic" data-slide-to="1" class=""></li>
+                                    <li data-target="#carousel-example-generic" data-slide-to="2" class=""></li>*@
+                            </ol>
+                            <div class="carousel-inner">
+                                <div class="item active">
+                                    <img src="~/Content/dist/img/pregnant-dress.jpg" alt="First slide" style='height: 100%; width: 100%; object-fit: contain'>
+                                    <div class="carousel-caption" style="font-size:25px; color:deepskyblue ">
+                                        <b> Give One Of The Greatest Gifts Anyone Can Ever Give... The Gift Of Life.</b>
+                                    </div>
+                                </div>
+                                @*<div class="item">
+                                        <img src="http://placehold.it/900x500/3c8dbc/ffffff&text=I+Love+Bootstrap" alt="Second slide">
+                                        <div class="carousel-caption">
+                                            Second Slide
+                                        </div>
+                                    </div>
+                                    <div class="item">
+                                        <img src="http://placehold.it/900x500/f39c12/ffffff&text=I+Love+Bootstrap" alt="Third slide">
+                                        <div class="carousel-caption">
+                                            Third Slide
+                                        </div>
+                                    </div>*@
+                            </div>
+                            @*<a class="left carousel-control" href="#carousel-example-generic" data-slide="prev">
+                                    <span class="fa fa-angle-left"></span>
+                                </a>
+                                <a class="right carousel-control" href="#carousel-example-generic" data-slide="next">
+                                    <span class="fa fa-angle-right"></span>
+                                </a>*@
+                        </div>
+                    </div>
+                    <!-- /.box-body -->
+                </div>
+                <!-- /.box -->
+            </div>
+            <div class="col-lg-12">
+                <div class="box-body" style="background-color:whitesmoke;">
+                    <b style="font-size:22px; padding-left:35px;">Welcome to Surrogacy in Second Hope</b>
+                    <br />
+                    <p style="padding-left:35px;  padding-right:35px;">Hello and Welcome to Surrogacy in Second Hope. Since long we have provided information, referral and support to Canadians involved with third party reproduction.</p>
+                    <p style="padding-left:35px; padding-right:35px;">Surrogacy in Canada is a legal and successful alternative for those who have had difficulty or need assistance creating a family of their own. A great experience depends on trust, good communication and respect for all the parties that can be involved. Intimate and emotional, this journey should be well researched and prepared for. It can be a very rewarding experience for surrogate mothers and is often the only option for an infertile couple to have their own genetically related child.</p>
+                    <p style="padding-left:35px; padding-right:35px;">
+                        At Surrogacy in Second Hope, we believe every person has a right to become a parent via third party reproduction regardless of their ethnic origin, religion, age, marital status, gender or sexual orientation. The most important thing for us is to make your journey the best that it can be… and that is possible with the right match and proper support from a program like Surrogacy in Second Hope. We work with hundreds of intended parents, surrogates and egg donors each year and would be honoured to assist you on your journey!
+
+                    </p>
+                </div>
+            </div>
+            <div class="col-md-6" style="padding-left:50px;">
+                <!-- Widget: user widget style 1 -->
+                <div class="box box-widget widget-user">
+                    <!-- Add the bg color to the header using any of the bg-* classes -->
+
+                    <div class="widget-user-header bg-aqua-active">
+                        <div class="widget-user-image">
+                            <i class="fa fa-cubes" style="font-size:45px;width:45px;height:45px;line-height:45px;"></i>
+                        </div>
+                        <h3 class="widget-user-username" style="padding-left:220px">We Build Families</h3>
+                    </div>
+                    <div class="box-footer">
+                        <div class="row">
+                            <div class="col-sm-12">
+                                <p>Surrogacy in Second Hope has been assisting intended parents and surrogate mothers with information, referral & support since long.</p>
+                                <!-- /.col -->
+                            </div>
+                            <!-- /.row -->
+                        </div>
+                    </div>
+                    <!-- /.widget-user -->
+                </div>
+            </div>
+            <div class="col-md-6" style="padding-left:15px; padding-right:50px;">
+                <!-- Widget: user widget style 1 -->
+                <div class="box box-widget widget-user">
+                    <!-- Add the bg color to the header using any of the bg-* classes -->
+
+                    <div class="widget-user-header bg-aqua-active">
+                        <div class="widget-user-image">
+                            <i class="fa fa-heart" style="font-size:45px;width:45px;height:45px;line-height:45px;"></i>
+                        </div>
+                        <h3 class="widget-user-username" style="padding-left:260px">We Care</h3>
+                    </div>
+                    <div class="box-footer">
+                        <div class="row">
+                            <div class="col-sm-12">
+                                <p>At Surrogacy in Second Hope we are honoured to have a role in assisting you with your surrogacy journey. When our members are happy, we're happy!</p>
+                                <!-- /.col -->
+                            </div>
+                            <!-- /.row -->
+                        </div>
+                    </div>
+                    <!-- /.widget-user -->
+                </div>
+            </div>
+
+            <div class="col-md-6" style="padding-left:50px;">
+                <!-- Widget: user widget style 1 -->
+                <div class="box box-widget widget-user">
+                    <!-- Add the bg color to the header using any of the bg-* classes -->
+
+                    <div class="widget-user-header bg-aqua-active">
+                        <div class="widget-user-image">
+                            <i class="fa fa-handshake-o" style="font-size:45px;width:45px;height:45px;line-height:45px;"></i>
+                        </div>
+                        <h3 class="widget-user-username" style="padding-left:160px">We Have the Right Team</h3>
+                    </div>
+                    <div class="box-footer">
+                        <div class="row">
+                            <div class="col-sm-12">
+                                <p>With our experienced and dedicated team, we have the right people in place to assist you during your journey.</p>
+                                <br/>
+                                <!-- /.col -->
+                            </div>
+                            <!-- /.row -->
+                        </div>
+                    </div>
+                    <!-- /.widget-user -->
+                </div>
+            </div>
+            <div class="col-md-6" style="padding-left:15px; padding-right:50px;">
+                <!-- Widget: user widget style 1 -->
+                <div class="box box-widget widget-user">
+                    <!-- Add the bg color to the header using any of the bg-* classes -->
+
+                    <div class="widget-user-header bg-aqua-active">
+                        <div class="widget-user-image">
+                            <i class="fa fa-users" style="font-size:45px;width:45px;height:45px;line-height:45px;"></i>
+                        </div>
+                        <h3 class="widget-user-username" style="padding-left:180px">Our Members Come First</h3>
+                    </div>
+                    <div class="box-footer">
+                        <div class="row">
+                            <div class="col-sm-12">
+                                <p>We strongly believe that your journey should be rewarding and stress free. Our goal is to guide and support you throughout this process.</p>
+                                <!-- /.col -->
+                            </div>
+                            <!-- /.row -->
+                        </div>
+                    </div>
+                    <!-- /.widget-user -->
+                </div>
+            </div>
+
+            <div id="messagebar"></div>
+
+            @Scripts.Render("~/Content/plugins/jQuery/jquery-2.2.3.min.js")
+            @Scripts.Render("~/Content/bootstrap/js/bootstrap.min.js")
+            @Scripts.Render("~/Content/plugins/iCheck/icheck.min.js")
+
+</body>
+
+</html>
+<footer class="main-footer" style="padding-left:50px;">
+    <div class="pull-right hidden-xs">
+        <b>Version</b> 2.3.8
+    </div>
+    <strong>Reference:https://surrogacy.ca</strong>
+    <br/>
+    <strong>Copyright © 2018-2019 <a href="http://localhost:4356">SecondHOPE</a>.</strong> All rights reserved.
+</footer>
